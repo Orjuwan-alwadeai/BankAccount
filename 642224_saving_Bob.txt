@@ -1,0 +1,4 @@
+Account opened | ID: 642224 | Type: saving | Balance: 0.00
+Deposit: 200.00 | Balance: 200.00
+Withdraw: 75.00 | Balance: 125.00
+Deposit: 25.00 | Balance: 150.00

@@ -1,0 +1,4 @@
+Account opened | ID: 380443 | Type: checking | Balance: 250.00
+Withdraw: 100.00 | Balance: 150.00
+Deposit: 40.00 | Balance: 190.00
+Withdraw: 190.00 | Balance: 0.00

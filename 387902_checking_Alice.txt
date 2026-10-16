@@ -1,0 +1,3 @@
+Account opened | ID: 387902 | Type: checking | Balance: 100.00
+Deposit: 50.00 | Balance: 150.00
+Withdraw: 30.00 | Balance: 120.00
